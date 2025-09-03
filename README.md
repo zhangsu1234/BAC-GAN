@@ -7,6 +7,7 @@ Generator: Utilizes BiLSTM and Multi-Head Attention mechanism to enhance the mod
 Discriminator: Adopts a CNN structure and incorporates the Hint mechanism to improve the ability to distinguish generated data.
 
 📊Datasets
+
 Two public datasets are used for experiments in this project:
 Residential Load Dataset (RLD)
 Contains residential electricity consumption data, suitable for analyzing household electricity usage behavior.
@@ -16,7 +17,9 @@ Smart Meter Dataset (SMD)
 Contains hourly electricity consumption data (kWh) from smart meters.
 Number of samples: 8760
 Number of features: 134
+
 🧪Comparative Methods
+
 To evaluate the performance of BAC-GAN, five mainstream missing data imputation methods are selected for comparative experiments:
 
 KNN (K-Nearest Neighbors): A traditional statistical method that fills missing values using the average of k nearest neighbor samples.
