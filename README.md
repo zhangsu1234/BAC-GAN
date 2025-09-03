@@ -46,6 +46,7 @@ jupyter (for running notebook files)
 
 bash
 pip install numpy pandas matplotlib seaborn scikit-learn jupyter torch==2.0.0+cu118 -f https://download.pytorch.org/whl/torch_stable.html
+
 Run the Main Model (BAC-GAN)
 Follow the steps below to start the BAC-GAN model for missing data imputation:
 
