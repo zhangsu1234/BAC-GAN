@@ -1,5 +1,5 @@
 BAC-GAN: Missing Data Recovery 
-Project Introduction
+
 This project proposes a missing data recovery method (BAC-GAN) for power systems based on an improved Generative Adversarial Network (GAN). Integrating Bidirectional Long Short-Term Memory (BiLSTM), Multi-Head Attention mechanism, and Convolutional Neural Network (CNN), this method can effectively capture the temporal dependencies and local features in power data, enabling high-precision missing data imputation.
 
 Model Structure
